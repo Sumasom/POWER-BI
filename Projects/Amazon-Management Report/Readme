@@ -1,3 +1,10 @@
+Developed a comprehensive Power BI dashboard to analyze Amazon sales performance across key business metrics, including revenue, profit, return rates, product categories, and regional trends.
+The dashboard features dynamic filtering, drill-through functionality, and KPI indicators to monitor actual sales against defined targets.
+The sales performance analysis revealed consistent gaps between sales goals and actual outcomes, with the most recent KPI visual highlighting a sales goal of $10.10M vs. actual sales of $9.19M, reflecting a performance shortfall of -9.09%.
+These insights support for better strategic planning, product optimization, and performance tracking across business units.
+
+Project Outcome: The dashboard enabled stakeholders to monitor key KPIs, track sales targets, and derive actionable insights to support strategic decision-making.
+
 The Project is Visualised using data from the below files:
  1. Customer LUT
  2. Product LUT
@@ -5,4 +12,4 @@ The Project is Visualised using data from the below files:
  4. Product Sub-Category LUT
  5. Return Data
  6. Sales Data
-7. Territory LUT
+ 7. Territory LUT
