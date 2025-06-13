@@ -1,1 +1,14 @@
+Implemented a dynamic metric selector (orders, sales, profit, return rate) linked to a stacked bar chart for multi-period trend analysis (year, quarter, month).
+Utilized DAX (Data Analysis Expressions) to custom measures and calculations to derive meaningful insights.
+Created a dynamic metric selector (orders, sales, profit, return rate) linked to a stacked bar chart, enabling flexible trend analysis across quarters and years.
+Integrated a What-If parameter for price adjustment simulation, using line and clustered column charts to assess revenue and profitability underpricing scenarios.
+Delivered actionable insights: a 10% price increase resulted in a 10% rise in adjusted sales and a 24% increase in profit.
 
+The Project is Visualised using data from the below files:
+ 1. Customer LUT
+ 2. Product LUT
+ 3. Product Category LUT
+ 4. Product Sub-Category LUT
+ 5. Return Data
+ 6. Sales Data
+ 7. Territory LUT
