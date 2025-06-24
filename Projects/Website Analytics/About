@@ -1,1 +1,20 @@
 Website Analytics Sales Dashbard
+
+This dashboard provides a focused analysis of website performance by visualizing key metrics across different traffic dimensions. It transforms raw web 
+traffic data into actionable insights to support data-driven decisions.
+
+This section introduces the purpose, structure, and navigation of the dashboard.
+
+Dashboard Purpose:
+Report consisting of Total Page Views, Sessions, Average Bounce Rate, and Average Session Duration. This helps us understand overall engagement trends on
+our website.
+
+Interactive Filters:
+1. Month
+2. Traffic Source
+3. Device Type
+4. Browser
+5. Country
+
+Drill-Down Capability:
+Enables deep dives into underperforming segments.
