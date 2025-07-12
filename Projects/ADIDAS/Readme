@@ -1,1 +1,10 @@
+Adidas - Sales Analysis Dashboard
 
+Tools/Language Used: Advanced Excel
+
+Developed an interactive Sales Dashboard in Excel using Power Query, PivotTables, PivotCharts, and Slicers (Year, Month, Retailer)
+Illustrated regional sales distribution, noting a decline in West region’s share from 42% in 2020 to 27% in 2021.
+Visualized annual sales & profit growth: sales rose from ₹1.82 Cr (2020) to ₹7.18 Cr (2021); profits increased from ₹0.63 Cr to ₹2.69 Cr, while maintaining
+a steady ~35% margin.
+Enabled dynamic filtering via slicers (Year, Month, Retailer) for real-time insights across time periods and vendors.
+Utilized dynamic named ranges, conditional formatting, trendlines, and interactive slicers to enhance usability and visual impact
